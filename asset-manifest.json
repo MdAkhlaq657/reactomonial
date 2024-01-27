@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactomonial/static/css/main.2505ad5d.css",
+    "main.js": "/reactomonial/static/js/main.d66ac807.js",
+    "static/js/787.bbc6ed7e.chunk.js": "/reactomonial/static/js/787.bbc6ed7e.chunk.js",
+    "index.html": "/reactomonial/index.html",
+    "main.2505ad5d.css.map": "/reactomonial/static/css/main.2505ad5d.css.map",
+    "main.d66ac807.js.map": "/reactomonial/static/js/main.d66ac807.js.map",
+    "787.bbc6ed7e.chunk.js.map": "/reactomonial/static/js/787.bbc6ed7e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2505ad5d.css",
+    "static/js/main.d66ac807.js"
+  ]
+}
